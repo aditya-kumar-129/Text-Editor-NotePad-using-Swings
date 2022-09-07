@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\adity\Desktop\placement\Text-Editor\.metadata\.plugins\org.eclipse.jdt.core
+1671692264.index
+1865797976.index
+177816484.index
